@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+#hero {
+  background-image: url("img/home-bg.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+  z-index: -2;
+}
+
+.font-dancing {
+  font-family: "Dancing Script", cursive;
+}
